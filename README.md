@@ -2,6 +2,7 @@
 
 **NLGEP — Next Learning Generation Education Program/Next Level Games Entertainment and Proxies**
 
+## Releasing +.50 updates (like 3.50 to 4.0 and 4.0 to 4.5) every Wensday and Sunday. Cloudflare site gets updated every Sunday.
 Current Version:
 Version 0.00
 
