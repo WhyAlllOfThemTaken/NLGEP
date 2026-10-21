@@ -4,7 +4,7 @@
 
 ## Releasing +.50 updates (like 3.50 to 4.0 and 4.0 to 4.5) every Wensday and Sunday. Cloudflare site gets updated every Sunday.
 Current Version:
-Version 0.00
+Version 0.50
 
 Update Log
 Beta: Added Browser Added Games Added AI Added UI
@@ -45,7 +45,7 @@ How: Not Possible with the current META
 
 NLGEP can be hosted on a static web hosting platform that supports HTML files or can be hosted though browser file:URL
 
-Click Code, download ZIP, open newest version, Version 0.00.
+Click Code, download ZIP, open newest version, Version 0.50.
 
 OR
 
