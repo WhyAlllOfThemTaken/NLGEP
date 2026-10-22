@@ -10,37 +10,6 @@ Update Log
 Beta: Added Browser Added Games Added AI Added UI
 Version 0.00: Added Anime Added Staff Mode Added updated UI Added Chat Added stricter fallback settings to load sites faster
 
-## Road Map
-
-High Priority: Make sites like Slither.io load faster and lag less
-
-How: RPC (Remote Procedure Call) will move data instantly from site to user instead of copying all of the data and presenting them 
-
-Make Streams faster and lag less
-
-How: Large files, videos, images will load in smaller sections instead of loading at once
-
-Medium Priority: Update UI themes to be like GUST and Horizon How: See how GUST and Horizon implements their theme changes and use that
-
-Low Priority (Things I want to update but can't actually add yet) 
-
-Server Side Site
-
-How: Buy a custom domain and run Scramjet & own proxy 
-
-Cloudflare Verification Support (example: CAPTCHA)
-
-How: Not Possible with the current META 
-
-Cloak Sandbox to support sites that issue "Please disable sandbox" warnings 
-
-How: Not Possible with the current META 
-
-Support sites like Now.gg & Reddit 
-
-How: Not Possible with the current META
-
-
 ## 🌐 Deployment
 
 NLGEP can be hosted on a static web hosting platform that supports HTML files or can be hosted though browser file:URL
