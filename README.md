@@ -14,7 +14,7 @@ Version 0.00: Added Anime Added Staff Mode Added updated UI Added Chat Added str
 
 NLGEP can be hosted on a static web hosting platform that supports HTML files or can be hosted though browser file:URL
 
-Click Code, download ZIP, open newest version, Version 0.50.
+Click Code, download ZIP, open newest version, Version 1.50.
 
 OR
 
